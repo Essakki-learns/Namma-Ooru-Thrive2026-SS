@@ -1,0 +1,6 @@
+{
+  "name": "Namma Ooru",
+  "description": "A rural Indian village digital platform providing access to government schemes, crop market prices, panchayat contacts, bus schedules, healthcare, and emergency services.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
