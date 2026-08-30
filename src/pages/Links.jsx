@@ -69,11 +69,11 @@ export default function Links() {
     },
     {
       id: 'link-ayushman-bharat',
-      name: 'Ayushman Bharat PM-JAY Health Portal',
-      sub: 'Generate Ayushman Gold Card for ₹5 Lakhs free hospital treatment',
-      url: 'https://pmjay.gov.in/',
+      name: 'Ayushman Bharat PM-JAY Health Portal (NHA)',
+      sub: 'Generate Ayushman Bharat card, verify hospital eligibility & ₹5 Lakh treatment benefits',
+      url: 'https://beneficiary.nha.gov.in/',
       icon: FaHospital,
-      badge: 'Free Health Card',
+      badge: 'National Health Portal',
       color: 'bg-rose-700 hover:bg-rose-800 text-white',
       badgeColor: 'bg-rose-100 text-rose-900'
     }

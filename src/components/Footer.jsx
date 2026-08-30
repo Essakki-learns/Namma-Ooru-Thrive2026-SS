@@ -46,7 +46,7 @@ export default function Footer() {
             <FaLeaf /> Namma Ooru - Village Community Hub
           </div>
           <p id="mandatory-team-credit" className="text-sm sm:text-base font-semibold text-slate-100 tracking-wide">
-            Team STAINLESS STEEL | Lead: Essakki Muthuraja S | Members: Mihil Shantha Nivash V, Sabari Ganesh G | © 2026 Namma Ooru
+            Team STAINLESS STEEL | Lead: Essakki Muthuraja S | Members: Mihil Shantha Nivash V, Sabari Ganesh H | © 2026 Namma Ooru
           </p>
           <p className="text-xs text-slate-400 mt-2">
             Built with care for Rural India &amp; Digital Village Empowerment
